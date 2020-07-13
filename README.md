@@ -1,6 +1,7 @@
 # `code-scanning-playground`
 > :wave: :earth_americas: a playground for **Code Scanning** :roller_coaster:
 
+
 ## Contents
 - [About](#about)
 - [How it works](#how-it-works)
